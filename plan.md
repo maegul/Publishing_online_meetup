@@ -1,6 +1,7 @@
 
 **Scratch Pad**: [http://go.unimelb.edu.au/s626]
 
+Here is an update!!!
 
 ## MeetUp Plan
 * GitHub
@@ -28,7 +29,7 @@
 
 ## GitHub + Markdown
 
-[**Good Cheat SHeet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Good Cheat SHeet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [GitHub Guide (incl GHM)](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
